@@ -7,7 +7,18 @@ export const person = {
   intro:
     'A visionary entrepreneur, trade finance specialist and purpose-driven business leader with over 20 years of experience across trade finance, procurement, business development, enterprise development and strategic partnerships.',
   portrait: '/images/portrait.jpg',
+  // Words that scroll across the purple band under the hero.
+  ticker: ['Trade Finance', 'SME Empowerment', 'Bid Bonds', 'Financial Inclusion', 'Women in Business', 'Strategic Partnerships'],
 }
+
+// The "Career path" list in About. `period` is the small label on the left.
+export const career = [
+  { period: 'Current', title: 'Founder & Managing Director', org: 'Recolte Limited', short: 'RL' },
+  { period: 'Current', title: 'Vice Chairperson', org: 'RecoSIB LLP', short: 'RS' },
+  { period: '2026', title: 'Founder & Convener', org: 'SHEconomy Summit 2026', short: 'SH' },
+  { period: 'Previously', title: 'Head of Trade Finance', org: 'Premier Credit Limited', short: 'PC' },
+  { period: 'Previously', title: 'Business Development Manager', org: 'InvesteQ Capital', short: 'IQ' },
+]
 
 export const contact = {
   // Fill these in before publishing. Empty values are hidden automatically.
@@ -86,10 +97,11 @@ export const milestones = [
 ]
 
 export const gallery = [
+  // span: 'wide' = two columns, 'tall' = two rows. The current mix fills the grid with no gaps.
   { src: '/images/sheconomy.jpg', caption: 'Convening the SHEconomy Summit 2026', span: 'wide' },
-  { src: '/images/coya-stage.jpg', caption: 'COYA Awards 2026, Female CEO of the Year' },
+  { src: '/images/coya-stage.jpg', caption: 'COYA Awards 2026, Female CEO of the Year', span: 'wide' },
   { src: '/images/business-maestro-trophy.jpg', caption: 'Business Maestro, Tally MSME Honours 2026', span: 'tall' },
   { src: '/images/msme-honours.jpg', caption: 'MSME Honours 2026 honourees', span: 'wide' },
-  { src: '/images/wcf-africa-summit.jpg', caption: 'WCF Africa Summit, Nairobi' },
-  { src: '/images/coya-group.jpg', caption: 'COYA Awards 2026' },
+  { src: '/images/wcf-africa-summit.jpg', caption: 'WCF Africa Summit, Nairobi', span: 'tall' },
+  { src: '/images/coya-group.jpg', caption: 'COYA Awards 2026', span: 'wide' },
 ]
