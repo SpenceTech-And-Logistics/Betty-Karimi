@@ -18,6 +18,7 @@ export const SITE = {
     "bid bonds Kenya",
     "SME financing Nairobi",
     "women in business Kenya",
+    "OWIT Kenya Women Champion of the Year",
   ],
 
   // Social preview (WhatsApp, LinkedIn, Facebook, X). 1200 x 630 image in /public.
@@ -36,6 +37,7 @@ export const SITE = {
   ],
   formerEmployers: ["Premier Credit Limited", "InvesteQ Capital"],
   awards: [
+    "Women Champion of the Year, OWIT Kenya Awards 2026",
     "Female CEO of the Year, COYA Awards 2026",
     "Business Maestro, Tally Solutions Africa MSME Honours 2026 (Recolte Limited)",
   ],

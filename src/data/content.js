@@ -73,6 +73,13 @@ export const sheconomy = {
 export const awards = [
   {
     year: '2026',
+    title: 'Women Champion of the Year',
+    by: 'OWIT Kenya Gala Dinner & Awards',
+    text: 'Presented by the Organization of Women in International Trade (OWIT) Kenya, in its 25th year, at the Africa Women in Trade Forum 2026.',
+    image: '/images/owit-award-presentation.jpg',
+  },
+  {
+    year: '2026',
     title: 'Female CEO of the Year',
     by: 'COYA Awards 2026',
     text: 'Recognising her leadership in trade finance and SME empowerment.',
@@ -98,6 +105,10 @@ export const milestones = [
 
 export const gallery = [
   // span: 'wide' = two columns, 'tall' = two rows. The current mix fills the grid with no gaps.
+  { src: '/images/owit-award-stage.jpg', caption: 'Women Champion of the Year, OWIT Kenya Awards 2026', span: 'wide' },
+  { src: '/images/owit-awtf-forum.jpg', caption: 'Africa Women in Trade Forum 2026', span: 'tall' },
+  { src: '/images/owit-trophy.jpg', caption: 'OWIT @ 25 Years: Women Champion of the Year award', span: 'tall' },
+  { src: '/images/owit-award-presentation.jpg', caption: 'Receiving the award at the OWIT Kenya Gala Dinner', span: 'wide' },
   { src: '/images/sheconomy.jpg', caption: 'Convening the SHEconomy Summit 2026', span: 'wide' },
   { src: '/images/coya-stage.jpg', caption: 'COYA Awards 2026, Female CEO of the Year', span: 'wide' },
   { src: '/images/business-maestro-trophy.jpg', caption: 'Business Maestro, Tally MSME Honours 2026', span: 'tall' },
