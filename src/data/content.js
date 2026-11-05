@@ -53,7 +53,7 @@ export const ventures = [
   {
     tag: 'Vice Chairperson',
     name: 'RecoSIB LLP',
-    text: 'Co-founded and helped build a trade finance powerhouse that provides working capital to SMEs and contractors. Designed and implemented financing products that have enabled more than 5,000 SMEs to execute projects across construction, ICT, supply chain and NGO services.',
+    text: 'Co-founded and helped build a trade finance powerhouse that provides working capital to SMEs, suppliers and contractors. Designed and implemented financing products that have enabled more than 5,000 SMEs to execute projects across construction, ICT, supply chain and NGO services.',
     points: ['LPO financing', 'Invoice discounting', 'Contract financing', 'Reverse factoring'],
   },
   {
