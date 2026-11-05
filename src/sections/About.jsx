@@ -33,7 +33,7 @@ function About() {
                 <b>{c.org}</b>
                 <span>{c.title}</span>
               </div>
-              <span className="row-l" aria-hidden="true" style={{ '--hue': 270 + i * 22 }}>
+              <span className="row-l" aria-hidden="true" style={{ '--hue': 205 + i * 18 }}>
                 {c.short}
               </span>
             </li>

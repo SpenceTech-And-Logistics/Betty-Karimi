@@ -28,7 +28,7 @@ export const SITE = {
   imageHeight: 630,
   imageAlt: "Betty Karimi speaking at the SHEconomy Summit 2026",
   locale: "en_KE",
-  themeColor: "#2a1040",
+  themeColor: "#122a45",
 
   // About the person (used for Google's structured data).
   jobTitle: "Founder & Managing Director",
