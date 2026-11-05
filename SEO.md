@@ -42,3 +42,4 @@ Living SEO record for the site. Update it every time SEO changes: tick items off
 - **2026-10-30:** SEO set up. Added `src/seo/site.js`, `seo-plugin.js`, `.env.production`, `public/og-image.jpg`, `<noscript>` text, sitemap and robots.txt. Live address set to the workers.dev address until a domain is connected.
 - **2026-11-02:** Added the OWIT Kenya Women Champion of the Year 2026 award to structured data (`awards`) and keywords. New photos have descriptive alt text from their gallery captions.
 - **2026-11-05:** Her SHEconomy title changed to "Visionary & Convener, SHEconomy" in the description, structured data (added as a role) and keywords (added "SHEconomy").
+- **2026-11-05:** Theme colour (browser bar on phones) changed to Recolte Blue `#122a45`; favicon recoloured to Recolte Blue and Recolte Green.
