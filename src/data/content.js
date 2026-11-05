@@ -3,7 +3,7 @@ export const person = {
   name: 'Betty Karimi',
   short: 'Betty',
   headline: 'Unlocking capital for Africa’s enterprises.',
-  roles: ['Founder & Managing Director, Recolte Limited', 'Vice Chairperson, RecoSIB LLP', 'Convener, SHEconomy Summit 2026'],
+  roles: ['Founder & Managing Director, Recolte Limited', 'Vice Chairperson, RecoSIB LLP', 'Visionary & Convener, SHEconomy'],
   intro:
     'A visionary entrepreneur, trade finance specialist and purpose-driven business leader with over 20 years of experience across trade finance, procurement, business development, enterprise development and strategic partnerships.',
   portrait: '/images/portrait.jpg',
@@ -15,7 +15,7 @@ export const person = {
 export const career = [
   { period: 'Current', title: 'Founder & Managing Director', org: 'Recolte Limited', short: 'RL' },
   { period: 'Current', title: 'Vice Chairperson', org: 'RecoSIB LLP', short: 'RS' },
-  { period: '2026', title: 'Founder & Convener', org: 'SHEconomy Summit 2026', short: 'SH' },
+  { period: 'Current', title: 'Visionary & Convener', org: 'SHEconomy', short: 'SH' },
   { period: 'Previously', title: 'Head of Trade Finance', org: 'Premier Credit Limited', short: 'PC' },
   { period: 'Previously', title: 'Business Development Manager', org: 'InvesteQ Capital', short: 'IQ' },
 ]
@@ -66,7 +66,7 @@ export const ventures = [
 
 export const sheconomy = {
   title: 'SHEconomy Summit 2026',
-  text: 'As founder and convener, Betty is championing the ambition of creating one million women millionaires within five years, by opening access to procurement opportunities, trade finance and strategic business networks.',
+  text: 'As the visionary and convener of SHEconomy, Betty is championing the ambition of creating one million women millionaires within five years, by opening access to procurement opportunities, trade finance and strategic business networks.',
   image: '/images/sheconomy.jpg',
 }
 
@@ -96,7 +96,7 @@ export const awards = [
 
 export const milestones = [
   { title: 'Pioneer of 30-minute bid bond processing', text: 'A faster financing solution for SMEs participating in tenders.' },
-  { title: 'Founder and convener, SHEconomy Summit 2026', text: 'Championing one million women millionaires within five years.' },
+  { title: 'Visionary and convener, SHEconomy', text: 'Championing one million women millionaires within five years.' },
   { title: 'Co-founder, RecoSIB LLP', text: 'Expanding access to LPO financing, invoice discounting, contract financing and reverse factoring.' },
   { title: 'Kenya–Sri Lanka business cooperation', text: 'Took part in discussions with the Sri Lankan High Commission in July 2026.' },
   { title: 'Women’s economic empowerment leadership', text: 'Promoting access to procurement, trade finance and strategic business networks.' },

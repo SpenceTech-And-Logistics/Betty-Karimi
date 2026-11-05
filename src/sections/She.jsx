@@ -6,7 +6,7 @@ function She() {
     <section className="she" id="sheconomy" aria-labelledby="she-title">
       <div className="she-bg" style={{ backgroundImage: `url(${sheconomy.image})` }} aria-hidden="true" />
       <div className="she-in">
-        <p className="eyebrow rv">Founder &amp; Convener</p>
+        <p className="eyebrow rv">Visionary &amp; Convener</p>
         <h2 id="she-title" className="rv">
           {sheconomy.title}
         </h2>

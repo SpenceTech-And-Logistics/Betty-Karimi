@@ -6,7 +6,7 @@ function About() {
       <div className="who">
         <div className="who-img rv from-l">
           <img src={about.image} alt="Betty Karimi speaking at the SHEconomy Summit" loading="lazy" width="634" height="853" />
-          <span className="who-tag">Convener, SHEconomy Summit 2026</span>
+          <span className="who-tag">Visionary &amp; Convener, SHEconomy</span>
         </div>
         <div className="who-tx rv from-r">
           <p className="eyebrow">About</p>

@@ -13,8 +13,8 @@ Living SEO record for the site. Update it every time SEO changes: tick items off
 |---|---|
 | Live address | https://betty-karimi.spencetechandlogistics.workers.dev |
 | Title | Betty Karimi \| Trade Finance Specialist & Founder, Recolte Limited |
-| Description | Betty Karimi is a Nairobi trade finance specialist, Founder & MD of Recolte Limited, Vice Chairperson of RecoSIB LLP, Female CEO of the Year (COYA Awards 2026) and convener of the SHEconomy Summit 2026. |
-| Main search terms | Betty Karimi; Recolte Limited; RecoSIB LLP; SHEconomy Summit 2026; trade finance Kenya; bid bonds Kenya; SME financing Nairobi; women in business Kenya; OWIT Kenya Women Champion of the Year |
+| Description | Betty Karimi is a Nairobi trade finance specialist, Founder & MD of Recolte Limited, Vice Chairperson of RecoSIB LLP, Female CEO of the Year (COYA Awards 2026) and visionary and convener of SHEconomy. |
+| Main search terms | Betty Karimi; Recolte Limited; RecoSIB LLP; SHEconomy; SHEconomy Summit 2026; trade finance Kenya; bid bonds Kenya; SME financing Nairobi; women in business Kenya; OWIT Kenya Women Champion of the Year |
 | Structured data | Person (roles, companies, 3 awards, expertise), ProfilePage, WebSite |
 | Sitemap | /sitemap.xml (home page + 2 key photos) |
 | robots.txt | Allow all, points to sitemap |
@@ -41,3 +41,4 @@ Living SEO record for the site. Update it every time SEO changes: tick items off
 ## Change log
 - **2026-10-30:** SEO set up. Added `src/seo/site.js`, `seo-plugin.js`, `.env.production`, `public/og-image.jpg`, `<noscript>` text, sitemap and robots.txt. Live address set to the workers.dev address until a domain is connected.
 - **2026-11-02:** Added the OWIT Kenya Women Champion of the Year 2026 award to structured data (`awards`) and keywords. New photos have descriptive alt text from their gallery captions.
+- **2026-11-05:** Her SHEconomy title changed to "Visionary & Convener, SHEconomy" in the description, structured data (added as a role) and keywords (added "SHEconomy").

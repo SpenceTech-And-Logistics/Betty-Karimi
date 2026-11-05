@@ -8,11 +8,12 @@ export const SITE = {
   name: "Betty Karimi",
   title: "Betty Karimi | Trade Finance Specialist & Founder, Recolte Limited",
   description:
-    "Betty Karimi is a Nairobi trade finance specialist, Founder & MD of Recolte Limited, Vice Chairperson of RecoSIB LLP, Female CEO of the Year (COYA Awards 2026) and convener of the SHEconomy Summit 2026.",
+    "Betty Karimi is a Nairobi trade finance specialist, Founder & MD of Recolte Limited, Vice Chairperson of RecoSIB LLP, Female CEO of the Year (COYA Awards 2026) and visionary and convener of SHEconomy.",
   keywords: [
     "Betty Karimi",
     "Recolte Limited",
     "RecoSIB LLP",
+    "SHEconomy",
     "SHEconomy Summit 2026",
     "trade finance Kenya",
     "bid bonds Kenya",
@@ -34,6 +35,7 @@ export const SITE = {
   worksFor: [
     { name: "Recolte Limited", role: "Founder & Managing Director" },
     { name: "RecoSIB LLP", role: "Vice Chairperson" },
+    { name: "SHEconomy", role: "Visionary & Convener" },
   ],
   formerEmployers: ["Premier Credit Limited", "InvesteQ Capital"],
   awards: [
