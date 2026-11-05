@@ -60,7 +60,7 @@ export const ventures = [
     tag: 'Founder & Managing Director',
     name: 'Recolte Limited',
     text: 'Provides strategic leadership in fast, accessible and collateral-light trade finance. Pioneered a 30-minute bid bond processing model and built partnerships with leading financial and insurance institutions to give SMEs a competitive edge in tendering and contract execution.',
-    points: ['Bid bonds', 'Performance guarantees', 'Bonding facilities', '30-minute processing'],
+    points: ['Bid bonds', 'Performance guarantees', 'Advance payment guarantees', '30-minute processing'],
   },
 ]
 
